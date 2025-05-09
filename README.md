@@ -67,6 +67,6 @@ This repository contains the solution and report for Assignment 1 of the AI/ML c
 
 For any queries, please reach out to:  
 **Kolipaka Bhargav Sashank**  
-**SR Number**: 23634
-**Mail :- bhargavsk@iisc.ac.in**
+**SR Number**: 23634  
+**Mail :- bhargavsk@iisc.ac.in**  
 **IISc, Bangalore**
