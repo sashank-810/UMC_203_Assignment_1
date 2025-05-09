@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# UMC_203_Assignment_1
-=======
 # UMC_203_Assignment_1
 **Course**: UMC 203 — Artificial Intelligence and Machine Learning  
 **Student**: Kolipaka Bhargav Sashank  
@@ -73,4 +70,3 @@ For any queries, please reach out to:
 **SR Number**: 23634
 **Mail :- bhargavsk@iisc.ac.in**
 **IISc, Bangalore**
->>>>>>> e843555 (Initial Commit)
